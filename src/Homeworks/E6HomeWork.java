@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class E6HomeWork {
     public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
+        /*Scanner scan=new Scanner(System.in);
         System.out.println("Please use it as a calculator");
         int number1=scan.nextInt();
         int symbol= scan.nextInt();
@@ -12,10 +12,13 @@ public class E6HomeWork {
        int sum=scan.nextInt();
 
 
-        if(number1>0){
-            System.out.println(number1+""+symbol+""+number2+"="+sum);
+        if(sum==0){
+            System.out.print("="+number1/number2);
+
+        }else if(sum2>0 || sum2<0){
+            System.out.println(number1+number2+"="+sum2);*/
 
         }
 
     }
-}
+
